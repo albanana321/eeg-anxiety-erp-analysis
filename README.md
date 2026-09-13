@@ -21,11 +21,13 @@ By comparing these neural signatures between anxiety groups, we can identify the
 ## Study Design
 
 ### Participants
-- **N = 64** second-year undergraduate students (Neuroscience & Psychology)
-- **Final sample:** 20 participants after exclusions for incomplete questionnaires
+- **Cohort:** 64 second-year undergraduates; 30 were assigned to the Go/NoGo experiment
+- **Retained:** 20 after 9 exclusions for incomplete STAI-T questionnaires
+- **Entering the group comparison:** ~10, since LTA/HTA are the lower and upper
+  quartiles of the retained sample. All reported ANOVAs are therefore F(1,8).
 - **Demographics:** 64% female, ages 19–25, diverse ethnic backgrounds
 - **Anxiety assessment:** State-Trait Anxiety Inventory (STAI-T)
-- **Groups:** High Trait Anxiety (HTA) vs. Low Trait Anxiety (LTA) based on median split
+- **Groups:** High Trait Anxiety (HTA) vs. Low Trait Anxiety (LTA) based on quartile split (lower and upper 25%) 
 
 ### Task
 | Parameter | Value |
