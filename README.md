@@ -8,7 +8,7 @@ An electroencephalography (EEG) study investigating the relationship between **t
 
 ## Overview
 
-Response inhibition — the ability to suppress inappropriate or unwanted actions — is a core executive function that has been linked to anxiety disorders. This study examined whether individuals with high trait anxiety (HTA) show impaired inhibitory control compared to those with low trait anxiety (LTA), using both behavioural measures and neural correlates.
+Response inhibition, the ability to suppress inappropriate or unwanted actions, is a core executive function that has been linked to anxiety disorders. This study examined whether individuals with high trait anxiety (HTA) show impaired inhibitory control compared to those with low trait anxiety (LTA), using both behavioural measures and neural correlates.
 
 The Go/NoGo task requires participants to respond to frequent "Go" stimuli while withholding responses to rare "NoGo" stimuli. This paradigm reliably elicits two key ERP components:
 - **N2** (200–400 ms): Associated with conflict monitoring and early inhibitory processes
@@ -241,7 +241,7 @@ The analysis pipeline presented here served as both a teaching tool and a resear
 
 ## License
 
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
@@ -249,4 +249,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 **Alban Malaj**
 
-*Teaching Assistant — Electrophysiology Practical, King's College London*
+*Teaching Assistant, Electrophysiology Practical, King's College London*
